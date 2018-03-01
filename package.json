@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/kevinjdonohue/IntroToCypressIO#readme",
   "devDependencies": {
-    "cypress": "^2.0.4"
+    "cypress": "^2.1.0"
   }
 }
