@@ -1,0 +1,28 @@
+{
+  "name": "intro-to-cypressio",
+  "version": "1.0.0",
+  "description": "A example cypress io project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinjdonohue/IntroToCypressIO.git"
+  },
+  "keywords": [
+    "cypress.io",
+    "end-to-end",
+    "e2e"
+  ],
+  "author": "Kevin J Donohue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinjdonohue/IntroToCypressIO/issues"
+  },
+  "homepage": "https://github.com/kevinjdonohue/IntroToCypressIO#readme",
+  "devDependencies": {
+    "cypress": "^2.0.4"
+  }
+}

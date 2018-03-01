@@ -1,0 +1,9 @@
+{
+  "firstName": "Mercury",
+  "middleName": "Middle",
+  "lastName": "Tester",
+  "gender": "male",
+  "dateOfBirth": "01/01/1990",
+  "phoneNumber": "206-555-1212",
+  "emailAddress": "kevin.donohue@alaskaair.com"
+}

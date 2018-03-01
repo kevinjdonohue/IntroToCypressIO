@@ -1,0 +1,16 @@
+{
+  "destinations": [
+    {
+      "airportCode": "LAX",
+      "buttonName": "Los Angeles, CA LAX"
+    },
+    {
+      "airportCode": "SNA",
+      "buttonName": "Orange County, CA SNA"
+    },
+    {
+      "airportCode": "SFO",
+      "buttonName": "San Francisco, CA SFO"
+    }
+  ]
+}
