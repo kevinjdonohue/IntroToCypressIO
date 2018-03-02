@@ -8,8 +8,6 @@ describe('AlaskaAirComReact End to End Tests', () => {
   it('should open the home page', () => {
     cy.visit('/');
 
-    // TODO:  What about different ORIGINs or DESTINATIONs?
-
     cy.get('.call-to-action').click();
 
     cy
@@ -33,9 +31,6 @@ describe('AlaskaAirComReact End to End Tests', () => {
       .contains('15')
       .click();
 
-    // TODO: Even better, how do we make this 'smart' -- so that it will try different dates if it doesn't find inventory?
-
-    // TODO: need to figure out how to search more narrowly/specifically
     cy.get('.flight-container:first').within(() => {
       cy.get('button').click();
     });
